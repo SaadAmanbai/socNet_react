@@ -1,0 +1,15 @@
+
+.friends {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 5px;
+}
+
+.friends__ava{
+  width: 50px;
+}
+
+.friends__name{
+  color: aqua;
+}

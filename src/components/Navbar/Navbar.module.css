@@ -1,0 +1,28 @@
+.nav{
+  grid-area: n;
+  background-color: blue;
+  padding: 0px;
+}
+
+.item a{
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.item a.active{
+  color: gold;
+}
+
+h4{
+  font-size: 50px;
+  margin-bottom: 2px;
+  color: aqua;
+  margin-left: 20px;
+}
+
+.friends__block{
+  display: flex;
+  flex-direction: row;
+  margin-left: 15px;
+}
